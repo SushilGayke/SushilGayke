@@ -1,4 +1,3 @@
-## Hi there 👋
 
 💫 About Me:
 🔭 Currently working on: CI/CD pipelines with Jenkins, Docker, and Kubernetes
